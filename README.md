@@ -14,7 +14,7 @@ Always ready for new challenges and teamwork, cordial treatment with everyone, I
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebalaca" alt="sebalaca" /></a> </p>
 
-- 📫 How to reach me **seba.laca@gmail.com**
+<h5align="center"> 📫 How to reach me **seba.laca@gmail.com** </h5>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
