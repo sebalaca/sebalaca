@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Lacabaratz</h1>
 <h3 align="center">Full-Stack Web Developer - Javascript (ES6), MongoDB, Express, React, NodeJS, HTML & CSS</h3>
 
-<h5align="center">I am an enterprising person with a lot of energy. I like challenges and learning.
+<h5 align="center">I am an enterprising person with a lot of energy. I like challenges and learning.
 My experience is related to the world of medical device sales, assistance in operating rooms and everything related to the medical world and hospital sales.
 I have recently graduated as a Full-Stack Web Developer - Javascript (ES6), MongoDB, Express, React, NodeJS, HTML & CSS, at IRONHACK Barcelona.
 
