@@ -16,6 +16,8 @@ Always ready for new challenges and teamwork, cordial treatment with everyone, I
 
 <h5 align="center"> 📫 How to reach me **seba.laca@gmail.com** </h5>
 
+<h5 align="center"> 🌱 I’m currently learning **Máster en CSS3, Maquetación web, Responsive Web Design, SASS, LESS, Flexbox, CSS Grid, Bootstrap 4 y 5** </h5>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sebastianlacabaratz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastianlacabaratz/" height="30" width="40" /></a>
