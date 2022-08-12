@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Lacabaratz</h1>
 <h3 align="center">Full-Stack Web Developer - Javascript (ES6), MongoDB, Express, React, NodeJS, HTML & CSS</h3>
 
-<h5 align="center">I am an enterprising person with a lot of energy. I like challenges and learning.
+<h5 align="justify">I am an enterprising person with a lot of energy. I like challenges and learning.
 My experience is related to the world of medical device sales, assistance in operating rooms and everything related to the medical world and hospital sales.
 I have recently graduated as a Full-Stack Web Developer - Javascript (ES6), MongoDB, Express, React, NodeJS, HTML & CSS, at IRONHACK Barcelona.
 
@@ -14,9 +14,9 @@ Always ready for new challenges and teamwork, cordial treatment with everyone, I
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebalaca" alt="sebalaca" /></a> </p>
 
-<h5 align="center"> 📫 How to reach me **seba.laca@gmail.com** </h5>
+<h4 align="center"> 📫 How to reach me <strong>seba.laca@gmail.com</strong> </h4>
 
-<h5 align="center"> 🌱 I’m currently learning **Máster en CSS3, Maquetación web, Responsive Web Design, SASS, LESS, Flexbox, CSS Grid, Bootstrap 4 y 5** </h5>
+<h4 align="center"> 🌱 I’m currently learning <strong>Máster en CSS3, Maquetación web, Responsive Web Design, SASS, LESS, Flexbox, CSS Grid, Bootstrap 4 y 5</strong> </h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
