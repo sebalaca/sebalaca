@@ -17,6 +17,7 @@ Always ready for new challenges and teamwork, cordial treatment with everyone, I
 <h4 align="center"> 📫 How to reach me <strong>seba.laca@gmail.com</strong> </h4>
 
 <h4 align="center"> 🌱 I’m currently learning <strong>Máster en CSS3, Maquetación web, Responsive Web Design, SASS, LESS, Flexbox, CSS Grid, Bootstrap 4 y 5</strong> </h4>
+<h4 align="center"> 🌱 I’m currently learning <strong>React: De cero a experto ( Hooks y MERN ) - Context API, MERN, Hooks, Firestore, JWT, Testing, Autenticaciones, Despliegues, CRUD, Logs, MUI, Multiple Routers.</strong> </h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
